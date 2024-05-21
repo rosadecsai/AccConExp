@@ -1,6 +1,6 @@
 # AccConExp
 ## **The quality of a scientific manuscript given by a peer-reviewed report in three dimensions: Accessibility, Contribution and Experimentation**
-##Notebooks
+## Notebooks
 In the jupyter-notebooks folder, there are two notebooks:
 * PLSSEM_AccConExp contains the code to obtain the PLS-SEM model, validation and analysis.
 * AccConExp describes training a multi-task deep learning machine to characterize the report's sentence by Accessibility, Contribution, Experimentation and the corresponding sentiment. Four-second deep learning machines allow us to characterize the sentences by aspect categories (clarity, soundness, originality, motivation, substance, meaningful comparison).
