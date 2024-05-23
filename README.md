@@ -12,3 +12,5 @@ In the jupyter-notebooks folder, there are two notebooks:
 * The dataset with the review, construct categories, aspect categories, and the corresponding sentiment can be downloaded from [here](https://drive.google.com/file/d/1ZKAAqKyaHHA_7qk6_XZ9FGLVJZDOxSob/view?usp=sharing)
 * The reviews in the train set encoded with SciBert can be downloaded from [here](https://drive.google.com/file/d/1Dm0tPNjGaCfsbla_0Lg7iBo2XLbHi2N1/view?usp=sharing)
 * The reviews in the test set encoded with SciBert can be downloaded from [here](https://drive.google.com/file/d/1-2gi9Wlj3PJ0QmdNvPpaMF8m3kF222Hb/view?usp=sharing)
+
+The AccConExp model has been create by J.J Montero-Parodi, Rosa Rodríguez-Sánchez, J.A. García and J. Fdez-Valdivia.
